@@ -1,0 +1,6 @@
+> разкоментировать moderewrite в настройках опача если он там заблочен
+
+for attach css
+<link rel="stylesheet" href="http://<php Config::HOST; ?>/<?php  Config::NameSite; ?>/public/css/default.css">
+
+> возможно doctype поменшает 
